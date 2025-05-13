@@ -1,0 +1,51 @@
+# Python __pycache__ & bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Installer builds (PyInstaller, cx_Freeze, etc.)
+build/
+dist/
+*.spec
+
+# yt-dlp executable
+yt-dlp*
+yt-dlp.exe
+yt-dlp_linux
+yt-dlp_macos
+yt-dlp_windows.exe
+
+# Compiled binaries
+*.exe
+*.app
+*.deb
+*.rpm
+*.dmg
+*.tar.gz
+*.zip
+
+# User config or temp files
+.settings/
+*.bak
+*.tmp
+*.swp
+
+# Platformdirs test output
+Downloads/
