@@ -49,3 +49,6 @@ yt-dlp_windows.exe
 
 # Platformdirs test output
 Downloads/
+
+# Installer generate
+installer/*
