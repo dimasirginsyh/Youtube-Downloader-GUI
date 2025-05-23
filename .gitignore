@@ -33,7 +33,7 @@ yt-dlp_macos
 yt-dlp_windows.exe
 
 # Compiled binaries
-*.exe
+/*.exe
 *.app
 *.deb
 *.rpm
