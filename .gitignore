@@ -28,7 +28,7 @@ dist/
 # yt-dlp executable
 yt-dlp*
 yt-dlp.exe
-yt-dlp_linux
+installer/yt-dlp_linux
 yt-dlp_macos
 yt-dlp_windows.exe
 
@@ -52,3 +52,11 @@ Downloads/
 
 # Installer generate
 installer/*
+
+/dist/
+/installer/dist/
+/installer/build/
+/*.spec
+
+yt-dlp*
+*.sh
